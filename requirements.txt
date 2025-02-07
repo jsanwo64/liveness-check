@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+numpy
+opencv-python
+tensorflow
+dlib
+mediapipe
+aioredis
+python-multipart
+python-jose[cryptography]
+python-dotenv
+Pillow
+scipy
+ratelimit
